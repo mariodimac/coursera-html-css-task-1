@@ -1,1 +1,1 @@
-# coursera-html-css-task-1
+This is the first project in Full Stack Web Development by Coursera - basic form with different types of inputs and ugly css :)
